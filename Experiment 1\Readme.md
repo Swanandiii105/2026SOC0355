@@ -1,4 +1,6 @@
-Exprriment 1: student class with details and result calculation#include <iostream>
+Exprriment 1: student class with details and result calculation
+
+#include <iostream>
 #include <string>
 using namespace std;
 
